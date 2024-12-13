@@ -1,5 +1,3 @@
-# CSCN
-Content-driven Magnitude-Derivative Spectrum Complementary Learning for Hyperspectral Image Classification
 # [CSCN: Content-driven Magnitude-Derivative Spectrum Complementary Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10613611) [TGRS 2024]
 
 by Huiyan Bai; Tingfa Xu; Huan Chen; Peifu Liu; Jianan Li.
