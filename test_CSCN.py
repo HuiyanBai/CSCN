@@ -25,9 +25,7 @@ def main():
     config = args.config
 
     model = CSCN(config).to(device)
-    # model_path = '/model/CSCN.pth'
-    model_path = ("/data/users/baihuiyan/DATASET/Experiment_FreeNet/experiment_debug/model/"
-                  "CSCN_Epoch_50+Batchsize_2_2024_12_13_13_44_49/CSCN_update_OA.pth")
+    model_path = '/model/CSCN.pth'
     model.load_state_dict(torch.load(model_path))
 
     print('Loaded trained model.')
