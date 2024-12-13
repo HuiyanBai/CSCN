@@ -10,6 +10,8 @@ Extracting discriminative information from complex spectral details in hyperspec
 
 
 ## BibTeX
+
+```
 @ARTICLE{10613611,
   author={Bai, Huiyan and Xu, Tingfa and Chen, Huan and Liu, Peifu and Li, Jianan},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -20,3 +22,5 @@ Extracting discriminative information from complex spectral details in hyperspec
   pages={1-14},
   keywords={Feature extraction;Data mining;Attention mechanisms;Accuracy;Hyperspectral imaging;Deep learning;Technological innovation;Complementary information;hyperspectral image (HSI) classification;spectral derivative},
   doi={10.1109/TGRS.2024.3435079}}
+
+```
